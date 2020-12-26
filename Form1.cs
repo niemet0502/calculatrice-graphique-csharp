@@ -76,5 +76,15 @@ namespace Calculatrice
         {
 
         }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
